@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @FahrezaMaulanaWisnuWardana
-- 👀 I’m interested in technology
 - 🌱 I’m currently learning php, javascript
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me on email fahrezamaulanawisnuwardana@gmail.com
