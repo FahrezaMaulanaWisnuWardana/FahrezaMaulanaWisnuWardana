@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FahrezaMaulanaWisnuWardana
+- 👋 Hi, I’m Fahreza Maulana Wisnu Wardana
 - 🌱 I’m currently learning php and go
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me on email fahrezamaulanawisnuwardana@gmail.com
