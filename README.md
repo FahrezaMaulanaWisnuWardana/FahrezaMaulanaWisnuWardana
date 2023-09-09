@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Fahreza Maulana Wisnu Wardana
-- 🌱 I’m currently learning php and go
+- Im a php developer
+- 🌱 Now I’m currently Go as quickly as possible so I can build apps
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me on email fahrezamaulanawisnuwardana@gmail.com
 
